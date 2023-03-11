@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifItem - Test debe obligar a requerir los campos de url y titulo 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <p>
+      Goku
+    </p>
+    <img
+      alt="Goku"
+      src="https://www.latercera.com/resizer/kMBcLnUVzd4zyy1YYTmqtjhJK4o=/768x0/smart/filters:quality(70):format(webp):no_upscale()/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/DTJTGBAZKBBNBD5Q3WFW25YXU4.gif"
+    />
+  </div>
+</div>
+`;
