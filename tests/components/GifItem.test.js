@@ -1,6 +1,6 @@
 import ReactDOM from 'react-dom/client';
 import { render, screen } from '@testing-library/react';
-import { GifItem } from "../src/components/GifItem";
+import { GifItem } from "../../src/components/GifItem";
 
 
 describe('GifItem - Test', () => {
